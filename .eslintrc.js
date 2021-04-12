@@ -9,6 +9,6 @@ module.exports = {
         "sourceType": "module"
     },
     "rules": {
-      "semi": "warn"
+      "semi": "0"
     }
 };
