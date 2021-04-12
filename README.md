@@ -9,9 +9,13 @@ This project is a web application that DESCRIPTION
 ---
 ### Tech Stack
 1. HTML5+CSS3
-2. JavaScript/ES6+
+2. JavaScript/ES2018+
 3. jQuery
 4. Bootstrap
+5. webpack/webpack-cli/webpack dev server
+6. eslint
+7. babel transpiler
+8. Jest testing
 ---
 
 ### Project Build Available At:
@@ -22,11 +26,10 @@ This project is a web application that DESCRIPTION
 ### Installation Instructions
 1. Clone this repo: `git clone https://github.com/Usarneme/REPO URL`
 2. Enter new directory `cd REPO DIR`
-3. Begin a web server in order to interact with and view index.html. For example:
-  * If you have python, you can use: `python2 -m SimpleHTTPServer 8080` in the project root directory
-  * Or you can use [VScode LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-  * Or whatever server you know how to run/prefer to use
-4. Open your browser and navigate to the webserver location (for example: localhost:8080)
+3. Install dependencies with `npm install`
+4. To run it locally, use the npm dev command `npm run start:dev`
+5. Open your web browser and navigate to http://localhost:9001
+6. For a production build, use `npm run build`
 ---
 ### Known Issues:
 1. NO KNOWN ISSUES
