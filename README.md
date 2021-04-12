@@ -44,7 +44,7 @@ Describe: TESTS
 
 ```
 ---
-### License is GPLv3 and I make no claim to copyright. 
+### License is GPLv3 and I make no claim to copyright.
 <br />
 
 > You can't steal what is freely given. Enjoy!
