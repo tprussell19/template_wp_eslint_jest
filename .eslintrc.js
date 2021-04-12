@@ -1,7 +1,8 @@
 module.exports = {
     "env": {
         "browser": true,
-        "es2021": true
+        "es2021": true,
+        "node": true
     },
     "extends": "eslint:recommended",
     "parserOptions": {
@@ -9,6 +10,6 @@ module.exports = {
         "sourceType": "module"
     },
     "rules": {
-      "semi": "0"
+      "semi": "off"
     }
 };
