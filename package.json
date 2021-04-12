@@ -1,8 +1,8 @@
 {
-  "name": "template_jquery_bootstrap_boilerplate",
+  "name": "template_wp_eslint_jest",
   "version": "1.0.0",
   "description": "---",
-  "main": "index.html",
+  "main": "src/main.js",
   "scripts": {
     "test": "jest --coverage",
     "build": "webpack --config webpack.config.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Usarneme/template_jquery_bootstrap_boilerplate.git"
+    "url": "git+https://github.com/Usarneme/template_wp_eslint_jest"
   },
   "author": "Usarneme",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Usarneme/template_jquery_bootstrap_boilerplate/issues"
+    "url": "https://github.com/Usarneme/template_wp_eslint_jest/issues"
   },
-  "homepage": "https://github.com/Usarneme/template_jquery_bootstrap_boilerplate#readme",
+  "homepage": "https://github.com/Usarneme/template_wp_eslint_jest#readme",
   "devDependencies": {
     "@babel/core": "^7.13.14",
     "@babel/preset-env": "^7.13.12",
