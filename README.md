@@ -1,58 +1,61 @@
-# PROJECT NAME
-## By Usarneme/Tom
+# _Project Name Here_
 
----
+#### _Short Description, date_
 
-### Project Description
+#### By _Thomas Russell_
 
-This project is a web application that DESCRIPTION
----
-### Tech Stack
-1. HTML5+CSS3
-2. JavaScript/ES2018+
-3. jQuery
-4. Bootstrap
-5. webpack/webpack-cli/webpack dev server
-6. eslint
-7. babel transpiler
-8. Jest testing
----
+## Description
 
-### Project Build Available At:
+_longer description_
 
-[BUILD URL](BUILD URL)
+## Setup/Installation Requirements
 
----
-### Installation Instructions
-1. Clone this repo: `git clone https://github.com/Usarneme/REPO URL`
-2. Enter new directory `cd REPO DIR`
-3. Install dependencies with `npm install`
-4. To run it locally, use the npm dev command `npm run start:dev`
-5. Open your web browser and navigate to http://localhost:9001
-6. For a production build, use `npm run build`
----
-### Known Issues:
-1. NO KNOWN ISSUES
-2. Please open a pull request if you have any issues!
----
-### Test Suite/Specification
+## Setup and Use
 
-> See also [the Jest Test File](TESTSURL) for Jest Test Suite which includes 14 passing tests. View Test Results from Project Directory by Running `yarn run test` or if you prefer npm `npm run test`
+### Prerequisites
+* [Node](https://nodejs.org/en/)
+* A text editor like [VS Code](https://code.visualstudio.com/)
 
-```
-Describe: TESTS
+### Installation
+1. Clone the repository: `$ git clone https://github.com/account/my-project`
+2. Navigate to the `my-project/` directory on your computer
+3. Open with your preferred text editor to view the code base
+4. To start a development server and view the project in the browser:
+    * Navigate to `my-project/` in your command line
+    * Run the command `npm install` to install dependencies
+    * Optionally, run the commmand `npm run build` to make a bundle of the files
+    * Finally, run the command `npm run start` to start a development server
+5. To run tests, navigate to `my-project/` in your terminal and run the command `npm run test`
 
-```
----
-### License is GPLv3 and I make no claim to copyright.
-<br />
+#### Find my website here: https://tprussell19.github.io/project-name !
 
-> You can't steal what is freely given. Enjoy!
+## Tests/Specs
 
-<br />
-<br />
-<br />
-<br />
-<p align="center">
-  <small>Made with ❤️ in Portland, Oregon. </small>
-</p>
+View test results in project directory by running `npm run test`.
+
+## Known Bugs
+
+* No known bugs
+
+## Contact
+
+_Please contact through Github_
+
+## Technologies Used
+
+* _HTML_
+* _CSS_
+* _Bootstrap_
+* _JavaScript_
+* _jQuery_
+* _VSCode_
+* _webpack_
+* _eslint_
+* _babel transpiler_
+* _Jest testing_
+
+### License
+
+MIT License.
+
+Copyright (c) 2021 _Thomas Russell_
