@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Usarneme/template_wp_eslint_jest"
+    "url": "git+https://github.com/tprussell19/template_wp_eslint_jest"
   },
   "author": "Usarneme",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Usarneme/template_wp_eslint_jest/issues"
+    "url": "https://github.com/tprussell19/template_wp_eslint_jest/issues"
   },
-  "homepage": "https://github.com/Usarneme/template_wp_eslint_jest#readme",
+  "homepage": "https://github.com/tprussell19/template_wp_eslint_jest#readme",
   "devDependencies": {
     "@babel/core": "^7.13.14",
     "@babel/preset-env": "^7.13.12",
